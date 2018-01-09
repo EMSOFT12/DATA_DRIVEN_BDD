@@ -1,0 +1,10 @@
+com\maxon\auto\stepdef\ContactMsgTest.class
+com\maxon\auto\pages\HomePage.class
+com\maxon\auto\pages\backUP\AbstractPage.class
+com\maxon\auto\pages\ContactResultPage.class
+com\maxon\auto\pages\backUP\HomePage.class
+com\maxon\auto\pages\backUP\ContactPage.class
+com\maxon\auto\pages\ContactPage.class
+com\maxon\auto\pages\backUP\ContactResultPage.class
+com\maxon\auto\pages\AbstractPage.class
+com\maxon\auto\Maxon\RunCukes.class

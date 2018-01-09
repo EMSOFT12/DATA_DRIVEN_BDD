@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: com.maxon.auto.Maxon.RunCukes
+-------------------------------------------------------------------------------
+Tests run: 48, Failures: 0, Errors: 6, Skipped: 29, Time elapsed: 90.57 sec <<< FAILURE! - in com.maxon.auto.Maxon.RunCukes
+When I go to work Credentials(| Good | Complete | Salutes | Hates |)  Time elapsed: 0.013 sec  <<< ERROR!
+cucumber.runtime.CucumberException: No such field com.maxon.auto.stepdef.Userdata.username
+
+| Good | Complete | Salutes | Hates |  Time elapsed: 0.014 sec  <<< ERROR!
+cucumber.runtime.CucumberException: No such field com.maxon.auto.stepdef.Userdata.username
+
+When I go to work Credentials(| Bad | Mess | Fires | Likes |)  Time elapsed: 0.006 sec  <<< ERROR!
+cucumber.runtime.CucumberException: No such field com.maxon.auto.stepdef.Userdata.username
+
+| Bad | Mess | Fires | Likes |  Time elapsed: 0.008 sec  <<< ERROR!
+cucumber.runtime.CucumberException: No such field com.maxon.auto.stepdef.Userdata.username
+
+When I go to work Credentials(| Avg | Sufficient | Congrats | Respects |)  Time elapsed: 0.001 sec  <<< ERROR!
+cucumber.runtime.CucumberException: No such field com.maxon.auto.stepdef.Userdata.username
+
+| Avg | Sufficient | Congrats | Respects |  Time elapsed: 0.001 sec  <<< ERROR!
+cucumber.runtime.CucumberException: No such field com.maxon.auto.stepdef.Userdata.username
+
