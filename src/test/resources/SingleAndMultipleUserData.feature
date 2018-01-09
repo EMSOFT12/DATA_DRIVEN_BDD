@@ -1,6 +1,5 @@
 
-#@Edge
-@Firefox
+ @Edge
 Feature: User Registration In MecuryFlight Site
 
   Background: 
